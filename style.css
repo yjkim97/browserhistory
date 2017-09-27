@@ -13,3 +13,36 @@ img {
   float: left;
   margin-right: 10px;
 }
+
+.left {
+  float: left;
+  width: 300px;
+  padding: 1cm;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1cm;
+}
+
+.center {
+  margin-left: 300px;
+  margin-left: 300px;
+  padding: 1cm;
+}
+
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li {
+  display: inline
+}
+
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+}
